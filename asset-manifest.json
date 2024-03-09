@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HighWay/static/css/main.a7605505.css",
+    "main.js": "/HighWay/static/js/main.86f66fbf.js",
+    "static/js/787.2b573dd1.chunk.js": "/HighWay/static/js/787.2b573dd1.chunk.js",
+    "static/media/pic2.jpg": "/HighWay/static/media/pic2.b4a2353b03265d46cd05.jpg",
+    "index.html": "/HighWay/index.html",
+    "main.a7605505.css.map": "/HighWay/static/css/main.a7605505.css.map",
+    "main.86f66fbf.js.map": "/HighWay/static/js/main.86f66fbf.js.map",
+    "787.2b573dd1.chunk.js.map": "/HighWay/static/js/787.2b573dd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7605505.css",
+    "static/js/main.86f66fbf.js"
+  ]
+}
