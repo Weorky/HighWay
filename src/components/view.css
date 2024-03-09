@@ -1,0 +1,92 @@
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+.view_area {
+    animation: fadeIn 1s ease-in-out;
+}
+
+.speed_area {
+    margin-top: 30px;
+    display: flex;
+    background-color: rgba(237, 237, 233, 0.7);
+    width: 60vw;
+    /* border: 2px solid rgba(237, 237, 233,0.7); */
+    border-radius: 20px;
+}
+
+.speed_area .ave_speed {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 400px;
+}
+
+.speed_area .aside_speed {
+    width: 40%;
+}
+
+.speed_area .ave_speed h2 {
+    font-size: 42px;
+    color: #344e41;
+    letter-spacing: 5px;
+}
+
+.speed_area .ave_speed p {
+    font-size: 180px;
+    color: #344e41;
+}
+
+.speed_area .aside_speed .max_speed {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+
+.speed_area .aside_speed .min_speed {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+}
+
+.speed_area .aside_speed .max_speed h3{
+    font-size: 32px;
+    letter-spacing: 5px;
+    color: #344e41;
+}
+
+.speed_area .aside_speed .max_speed p{
+    font-size: 60px;
+    color: #344e41;
+}
+
+.speed_area .aside_speed .min_speed h3{
+    font-size: 32px;
+    letter-spacing: 5px;
+    color: #344e41;
+}
+
+.speed_area .aside_speed .min_speed p{
+    font-size: 60px;
+    color: #344e41;
+}
+
+.update_time {
+    margin-top: 3px;
+    margin-right: 10px;
+    text-align: right;
+}
+.update_time p {
+    font-size: 18px;
+}

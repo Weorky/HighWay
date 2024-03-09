@@ -1,0 +1,21 @@
+* {
+    font-family: 'Noto Sans TC', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("C:\Users\Weorky\Desktop\road\highway\public\pic2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
